@@ -114,7 +114,7 @@ This project demonstrates the application of data analysis and machine learning 
 - scikit-learn
 
 ## License
-This project is licensed under the MIT License.LICENSE
+This project is licensed under the MIT License.
 
 
 ## Disclaimer
